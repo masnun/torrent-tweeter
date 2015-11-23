@@ -8,8 +8,6 @@ module.exports = {
         "Limitless",
         "Blindspot",
         "Jessica Jones"
-
-
     ],
 
     "twitter": {

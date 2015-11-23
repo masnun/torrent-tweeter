@@ -13,9 +13,9 @@ Meanwhile, I would very much appreciate feedback/pull requests.
 * Clone the repository. 
 * `npm install` in the repository
 * Create a new twitter app and generate access tokens. 
-* Copy the `configs.sample.js` file and name it `configs.js`. Customize it as you need. 
+* Copy the `configs.sample.es6` file and name it `configs.es6`. Customize it as you need.
 
 
 ### Running
 
-Run: `node main.js` or just `node .`. That should run the script.
+Run: `node main.es6` or just `node .`. That should run the script.
