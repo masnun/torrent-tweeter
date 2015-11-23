@@ -4,9 +4,9 @@ Checks Kick Ass Torrent for your favorite TV shows and tweets you when a new epi
 
 ### Messy Code
 
-The project was initially targeted for a Tessel device. So I tried to minimize dependencies and  avoided fancy stuff. But sadly, I could not run `cheerio` on Tessel and didn't have the enthusiasm to write another layer of regex. I will clean this code up when I get some more free time. ES6 is in my wishlist. 
+The project was initially targeted for a Tessel device. So I tried to minimize dependencies and  avoided fancy stuff. But sadly, I could not run `cheerio` on Tessel and didn't have the enthusiasm to write another layer of regex. 
 
-Meanwhile, I would very much appreciate feedback/pull requests.  
+<del>I will clean this code up when I get some more free time. ES6 is in my wishlist. </del> I have started refactoring to ES6. Meanwhile, I would very much appreciate feedback/pull requests.  
 
 ### Installation
 
